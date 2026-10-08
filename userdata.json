@@ -10,5 +10,16 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },{
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+{
+        "device_id": "565e270d7ce56dd8",
+        "key": "LOKO",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
